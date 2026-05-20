@@ -40,14 +40,24 @@
 
 <div align="center">
 
-| Artificial Intelligence | Data Analytics | Web Development |
-|------------------------|---------------|----------------|
-| Machine Learning | Data Visualization | React.js |
-| Explainable AI | Predictive Analytics | Node.js |
-| Healthcare AI | Time Series Analysis | Django |
-| NLP | SQL & Databases | APIs |
+| 🤖 Machine Learning | 📊 Data Analytics | 🌐 Web Development |
+|---------------------|------------------|-------------------|
+| Machine Learning Algorithms | Data Cleaning & Processing | Python Development |
+| Model Training & Evaluation | Dashboard Creation | React.js |
+| Feature Engineering | Data Visualization | Node.js |
+| Classification & Regression | Power BI Dashboards | Django |
+| NLP & Explainable AI | SQL Analysis | FastAPI |
+| Model Deployment | Business Intelligence | REST APIs |
+| Hyperparameter Tuning | Predictive Analytics | API Integration |
+| TinyBERT & ML Pipelines | Time Series Analysis | Backend Development |
+| SHAP & LIME Interpretability | Statistical Analysis | Frontend Development |
+| Dataset Processing | KPI Monitoring | API Handling |
+| Supervised Learning | Reporting & Insights | Authentication Systems |
+| Performance Optimization | Analytical Problem Solving | Database Integration |
 
 </div>
+
+---
 
 ---
 
