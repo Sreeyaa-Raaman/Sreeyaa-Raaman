@@ -1,55 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:7C3AED&text=Sreeyaa%20Raaman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:7C3AED&text=Sreeyaa%20Raaman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Data%20Analytics%20%7C%20Web%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Healthcare+AI+Solutions;Cybersecurity+%26+Enterprise+Systems;Building+Technology+for+Real+World+Impact"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Analytics+%7C+Web+Development;Healthcare+AI+Projects;Building+Technology+for+Real+World+Impact"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sreeyaa-Raaman&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
+<br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="140"/>
+
+### AI/ML Developer • Data Analytics • Web Developer
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👩‍💻 About Me
 
-```yaml
-Name: Sreeyaa Raaman
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-Education:
-  Degree: B.Tech Artificial Intelligence and Data Science
+🎓 B.Tech Artificial Intelligence and Data Science Student
 
-Current Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - Healthcare AI
-  - Secure Software Systems
+🧠 Passionate about Artificial Intelligence, Machine Learning and Data Analytics
 
-Interests:
-  - Explainable AI
-  - Enterprise AI Systems
-  - Cybersecurity
-  - Intelligent Applications
-  - System Design
+💻 Interested in Web Development and Intelligent Applications
 
-Currently Exploring:
-  - Advanced React
-  - Enterprise Architecture
-  - Model Deployment
-  - Scalable AI Systems
-```
+📊 Exploring Data Analysis, Visualization and Predictive Systems
 
-💡 Passionate about developing intelligent systems that solve real-world problems
+🚀 Building technology solutions solving real-world problems
 
-🔒 Interested in secure software engineering and cybersecurity-driven solutions
+🌱 Currently learning Advanced React, Machine Learning and System Design
 
-🧠 Exploring Explainable AI, ML interpretability and enterprise AI systems
+⚡ Love creating scalable and user-focused applications
 
-🚀 Building scalable and impactful technology products
+<br clear="right"/>
 
 ---
 
-# ⚡ Technical Skills
+# 🚀 Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence | Data Analytics | Web Development |
+|------------------------|---------------|----------------|
+| Machine Learning | Data Visualization | React.js |
+| Explainable AI | Predictive Analytics | Node.js |
+| Healthcare AI | Time Series Analysis | Django |
+| NLP | SQL & Databases | APIs |
+
+</div>
+
+---
+
+# ⚡ Tech Stack
 
 ### 💻 Languages
 
@@ -59,7 +61,7 @@ Currently Exploring:
 
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
 
@@ -67,7 +69,7 @@ Currently Exploring:
 
 </p>
 
-### ⚙ Backend Development
+### ⚙ Backend
 
 <p>
 
@@ -75,7 +77,7 @@ Currently Exploring:
 
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 <p>
 
@@ -91,11 +93,15 @@ Currently Exploring:
 
 </p>
 
-### 🗄 Database Technologies
+### 📊 Data Analytics
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 
 </p>
 
@@ -117,9 +123,9 @@ Currently Exploring:
 
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 
-<img src="https://img.shields.io/badge/SHAP-ExplainableAI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LIME-ModelInterpretability-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIME-green?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=githubcopilot"/>
 
@@ -127,11 +133,11 @@ Currently Exploring:
 
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai"/>
 
-<img src="https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Claude_AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Codex_AI-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codex-darkblue?style=for-the-badge"/>
 
 </div>
 
@@ -139,46 +145,35 @@ Currently Exploring:
 
 # 🚀 Featured Projects
 
-## 🩺 MedExplain
+### 🩺 MedExplain
 
-AI-powered healthcare assistance platform simplifying complex medical information and improving medical accessibility.
+AI-powered medical explanation platform simplifying healthcare information.
 
-**Tech Stack**
-
-`React.js` `Node.js` `Machine Learning` `Healthcare AI`
+**Tech:** React.js • Node.js • Machine Learning
 
 ---
 
-## 🎯 QuizGen
+### 🎯 QuizGen
 
-AI-powered quiz generation platform designed to automate educational assessment workflows.
+AI-powered automated quiz generation platform.
 
-**Tech Stack**
-
-`Python` `Django` `AI Integration`
+**Tech:** Django • Python • AI
 
 ---
 
-## 🩸 Lifeline+
+### 🩸 Lifeline+
 
-Location-based blood donation platform with urgency prediction and geolocation integration.
+Blood donation application with urgency prediction and location-based donor support.
 
-**Tech Stack**
-
-`React.js` `Node.js` `FastAPI`
+**Tech:** React.js • Node.js • FastAPI
 
 ---
 
-## 🔐 FixForge AI
+### 🔐 FixForge AI
 
-AI-driven vulnerability detection system for code analysis and repository security assessment.
+Security platform detecting vulnerabilities in code and GitHub repositories.
 
-**Tech Stack**
-
-`React.js`
-`Node.js`
-`GitHub API`
-`Cybersecurity`
+**Tech:** React.js • Node.js • GitHub API
 
 ---
 
@@ -186,9 +181,9 @@ AI-driven vulnerability detection system for code analysis and repository securi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreeyaa-Raaman&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sreeyaa-Raaman&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeyaa-Raaman&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeyaa-Raaman&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -202,27 +197,7 @@ AI-driven vulnerability detection system for code analysis and repository securi
 
 ---
 
-# 🏆 Professional Areas
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Full Stack Development
-
-✔ Healthcare Technology
-
-✔ Cybersecurity Solutions
-
-✔ Explainable AI
-
-✔ Enterprise AI Systems
-
-✔ Secure Software Engineering
-
----
-
-# 🌐 Connect With Me
+# 💻 Coding Profiles
 
 <div align="center">
 
@@ -250,7 +225,7 @@ AI-driven vulnerability detection system for code analysis and repository securi
 
 <div align="center">
 
-### "Building intelligent systems that create meaningful impact."
+### ✨ "Transforming ideas into impactful technology."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
 
